@@ -1,2 +1,2 @@
-a=input("saisir des nombres")
-echo a
+a="hello tout le monde"
+print(a)
